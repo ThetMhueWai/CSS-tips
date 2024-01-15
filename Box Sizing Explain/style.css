@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+.box1 {
+    background-color: brown;
+    width: 300px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.box2 {
+    background-color: brown;
+    width: 340px;
+}
